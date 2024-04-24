@@ -1,0 +1,5 @@
+openai
+streamlit
+deepl
+tiktoken
+PyPDF2
