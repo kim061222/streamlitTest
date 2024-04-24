@@ -1,7 +1,7 @@
 
 # PDF 문서를 요약하는 웹 앱
 
-from . import my_text_sum # 텍스트를 요약하기 위한 모듈
+import my_text_sum # 텍스트를 요약하기 위한 모듈
 import streamlit as st
 from openai import OpenAI
 import os
