@@ -1,6 +1,6 @@
 # OpenAI 이미지 생성기 웹 앱
 
-import my_image_gen # 이미지 생성을 위한 모듈을 임포트
+from ..my_image_gen import my_image_gen # 이미지 생성을 위한 모듈을 임포트
 import streamlit as st
 import openai
 import os
